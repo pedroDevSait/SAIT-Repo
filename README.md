@@ -1,5 +1,5 @@
 # SAIT-Repo
-Un poco de documentación sobre mi capacitación en SAIT Software Administrativo.
+Un poco de documentación sobre mi capacitación en Microsistemas San Luis.
 
 ## Fecha: 1-SEP-2022
 ### Pedro, Desarrollo
