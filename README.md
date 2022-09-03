@@ -31,7 +31,7 @@ Donde:
 
 6. Si todoa ha salido bien, una vez que compiles los programas y ejecutes SAIT deberías ver la nueva funcionaldiad en marcha, si tenías abierto SAIT mientras modificabas o compilabas la nueva funcionalidad cierra el sistea y vuelve a abrilo.
 
-# Nos quedamos en la creación de objetos para pasar más de un parametro entre formuarios.
+#### Nos quedamos en la creación de objetos para pasar más de un parametro entre formuarios.
 
 ## Fecha: 2-SEP-2022
 ### Pedro, Desarrollo.
