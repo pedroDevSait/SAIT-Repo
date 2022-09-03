@@ -31,6 +31,8 @@ Donde:
 
 6. Si todoa ha salido bien, una vez que compiles los programas y ejecutes SAIT deberías ver la nueva funcionaldiad en marcha, si tenías abierto SAIT mientras modificabas o compilabas la nueva funcionalidad cierra el sistea y vuelve a abrilo.
 
+# Nos quedamos en la creación de objetos para pasar más de un parametro entre formuarios.
+
 ## Fecha: 2-SEP-2022
 ### Pedro, Desarrollo.
 
@@ -39,4 +41,5 @@ Tuve una sesión de capación con Ricardo en la cuál me mostró como trabajó e
 1. Usando las librerías de SAIT pueden facilitar operaciones como conexión con bases de datos.
 2. Me mostró como se hacia la apertura de conexión y que normalmente se usan cursores o temporales para hacer consultas a la base de datos.
 3. Me enseñó como funciona el ciclo SCAN de VFP, también la palabra reservada LOCATE FOR, la palabra reservada SEEK.
-4. 
+4. Como agregar métodos a un formulario.
+5. Siempre hay que validar lo que se quiere insertar en la base de datos, para evitar redundacia de información.
