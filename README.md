@@ -30,3 +30,13 @@ Donde:
 - Bimbo: Es el archivo donde se encuetra la funció o procedimiento que se va a ejecutar
 
 6. Si todoa ha salido bien, una vez que compiles los programas y ejecutes SAIT deberías ver la nueva funcionaldiad en marcha, si tenías abierto SAIT mientras modificabas o compilabas la nueva funcionalidad cierra el sistea y vuelve a abrilo.
+
+## Fecha: 2-SEP-2022
+### Pedro, Desarrollo.
+
+Tuve una sesión de capación con Ricardo en la cuál me mostró como trabajó en un desarrollo especial, también cómo es que se trabaja con la base de datos.
+
+1. Usando las librerías de SAIT pueden facilitar operaciones como conexión con bases de datos.
+2. Me mostró como se hacia la apertura de conexión y que normalmente se usan cursores o temporales para hacer consultas a la base de datos.
+3. Me enseñó como funciona el ciclo SCAN de VFP, también la palabra reservada LOCATE FOR, la palabra reservada SEEK.
+4. 
