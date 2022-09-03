@@ -38,8 +38,18 @@ Donde:
 
 Tuve una sesión de capación con Ricardo en la cuál me mostró como trabajó en un desarrollo especial, también cómo es que se trabaja con la base de datos.
 
+Estas son algunos de los temas que se tomaron:
+
 1. Usando las librerías de SAIT pueden facilitar operaciones como conexión con bases de datos.
+
 2. Me mostró como se hacia la apertura de conexión y que normalmente se usan cursores o temporales para hacer consultas a la base de datos.
+
 3. Me enseñó como funciona el ciclo SCAN de VFP, también la palabra reservada LOCATE FOR, la palabra reservada SEEK.
+
 4. Como agregar métodos a un formulario.
+
 5. Siempre hay que validar lo que se quiere insertar en la base de datos, para evitar redundacia de información.
+
+6. La configuración por defecto que se usa en el control Grid 
+
+7. Como se usa el operador diferente en VFP "<>"
