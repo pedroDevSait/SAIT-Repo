@@ -70,3 +70,30 @@ Tuve sesión de capacitación con Ignacio, estos son algunos de los temas que se
   
     ![Ejemplo de subrayado](https://github.com/pedrosait/SAIT-Repo/blob/main/img/btn_eliminar.png)
   
+2. DATASESSION ID es una propiedad la cual identifica las sesiones de datos privadas, ejemplo si existe una sesión abierta con el ID 1, si se abre una sesión privada su ID será 2.
+
+3. El comando SET tiene varios usos principalmente se usa para establecer la configuración interna de VFP.
+
+
+## Fecha: 8-SEP-2022
+Tuve sesión con Ricardo.
+
+1. Para dar saltos de lineas en VFP se usa 
+  
+  ```
+    chr(10)
+  ```
+
+2. En VFP se recomienda abrir una sola instancia de una tabla de la Base de Datos, si es necesario manipular una tabla desde otra forma al mismo tiempo es mejor abrir una copia en un cursor.
+
+3. SCAN por defecto te posiciona en el primer registro de la tabla. Si no se establece una condición recorrerá todos los registros.
+
+4. El diseñador de reportes acepta funciones en los campos del reporte.
+
+5. Para que un procedimiento reciba parametros se tiene que indicar en el programa con lparameter.
+
+6. Es necesario vereficar que no existe una conexión abierta a la base de datos.
+
+7. SEEK te posiciona en el registro que se parece al que se establece en el método.
+
+8. Siempre cerrar todas las conexiones con la base de datos.
