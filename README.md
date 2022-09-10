@@ -58,7 +58,10 @@ Estas son algunos de los temas que se tomaron:
 Tuve sesión de capacitación con Ignacio, estos son algunos de los temas que se trataron.
 1. Como agregar atajos de teclado mediante código de VFP.
   Syntax:
+
   ```thisform.btn_delete.Caption = "\<Eliminar"```
+
+  
   En este caso la letra E tendrá un subrayado como el siguiente.
   ![Ejemplo de subrayado](https://github.com/pedrosait/SAIT-Repo/blob/main/img/btn_eliminar.png)
   
