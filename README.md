@@ -60,5 +60,5 @@ Tuve sesión de capacitación con Ignacio, estos son algunos de los temas que se
   Syntax:
   ```thisform.btn_delete.Caption = "\<Eliminar"```
   En este caso la letra E tendrá un subrayado como el siguiente.
-  ![Ejemplo de subrayado](https://github.com/pedrosait/SAIT-Repo/blob/main/img/btn_eliminar.png)
+  [![Ejemplo de subrayado](https://github.com/pedrosait/SAIT-Repo/blob/main/img/btn_eliminar.png)]
   
