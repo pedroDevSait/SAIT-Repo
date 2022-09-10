@@ -22,7 +22,9 @@ todas las funciones y métodos nuevos.
 5. Ahora, ubicar el archivo autorun.prg, si no existe crearlo. Dentro de él se llama a la función
 init del nuevo modulo, continuando con el ejemplo anterior sería:
 
-```do initBimboApp in Bimbo```
+```
+  do initBimboApp in Bimbo
+```
 
 Donde:
 - Do: Es un comando de VFP el cual ejecuta un programa o procedimiento.
