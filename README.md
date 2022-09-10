@@ -59,5 +59,5 @@ Tuve sesión de capacitación con Ignacio, estos son algunos de los temas que se
 1. Como agregar atajos de teclado mediante código de VFP.
   Syntax:
   ```thisform.btn_delete.Caption = "\<Eliminar"```
-  En este caso la letra E tendrá un subrayado como el siguiente.
+  En este caso la letra E tendrá un subrayado como el ~~siguiente~~
   
