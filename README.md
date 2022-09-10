@@ -1,8 +1,9 @@
 # Capacitación SAIT
+## Desarrollo
+### Pedro
 Un poco de documentación sobre mi capacitación en Microsistemas San Luis.
 
 ## Fecha: 1-SEP-2022
-### Pedro, Desarrollo
 
 Tuve una sesión de capacitación en la cual el Ing. Ignacio me explicó como 
 se agrega funcionalidad a SAIT mediante el método autorun, para ello:
@@ -34,7 +35,6 @@ Donde:
 #### Nos quedamos en la creación de objetos para pasar más de un parametro entre formuarios.
 
 ## Fecha: 2-SEP-2022
-### Pedro, Desarrollo.
 
 Tuve una sesión de capación con Ricardo en la cuál me mostró como trabajó en un desarrollo especial, también cómo es que se trabaja con la base de datos.
 
@@ -53,3 +53,11 @@ Estas son algunos de los temas que se tomaron:
 6. La configuración por defecto que se usa en el control Grid 
 
 7. Como se usa el operador diferente en VFP "<>"
+
+## Fecha: 7-SEP-2022
+Tuve sesión de capacitación con Ignacio, estos son algunos de los temas que se trataron.
+1. Como agregar atajos de teclado mediante código de VFP.
+  Syntax:
+  ```thisform.btn_delete.Caption = "\<Eliminar"```
+  En este caso la letra E tendrá un subrayado como el siguiente.
+  
