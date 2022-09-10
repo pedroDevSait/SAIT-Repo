@@ -60,7 +60,9 @@ Tuve sesión de capacitación con Ignacio, estos son algunos de los temas que se
   
   
   Syntax:
-  ``` thisform.btn_delete.Caption = "\<Eliminar" ```
+  ``` 
+  thisform.btn_delete.Caption = "\<Eliminar" 
+  ```
 
 
   En este caso la letra E tendrá un subrayado como el siguiente.
