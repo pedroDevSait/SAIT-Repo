@@ -32,7 +32,7 @@ Donde:
 - in: Le indica a VFP donde está la función que se va a ejecutar
 - Bimbo: Es el archivo donde se encuetra la funció o procedimiento que se va a ejecutar
 
-6. Si todoa ha salido bien, una vez que compiles los programas y ejecutes SAIT deberías ver la nueva funcionaldiad en marcha, si tenías abierto SAIT mientras modificabas o compilabas la nueva funcionalidad cierra el sistea y vuelve a abrilo.
+6. Si todo a ha salido bien, una vez que compiles los programas y ejecutes SAIT deberías ver la nueva funcionaldiad en marcha, si tenías abierto SAIT mientras modificabas o compilabas la nueva funcionalidad cierra el sistea y vuelve a abrilo.
 
 #### Nos quedamos en la creación de objetos para pasar más de un parametro entre formuarios.
 
